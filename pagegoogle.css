@@ -1,0 +1,118 @@
+#conteneur 
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+p
+{
+ padding: 10px
+}
+
+ 
+.imagegoogle
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+	margin-bottom: 5px;
+}
+
+footer 
+{
+	position: absolute; bottom: 0; left: 0; right: 0
+}
+
+.footer2
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer2gauche
+{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.footer3droite
+{
+	display: flex;
+	justify-content: : flex-end;
+}
+
+.searchbar
+{
+	display: flex;
+	justify-content: center;
+
+}
+
+.searchpart
+{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.searchbar
+{
+	width: 550px
+margin: 30px
+padding: 15px
+background-image: url('url de l'imagegoogle)
+background-repeat : no-repeat;
+background-size: 18px
+background-position: 8px 13px;
+border-radius: 32px;}
+
+.searchbuttons
+{
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.rechercher
+{
+	margin-right: 10px;
+}
+
+.chance
+{
+	margin-left: 10px;
+}
+
+p
+{
+	font-family: "arial"
+}
+
+footer 
+{
+	margin-top: 100px;
+	margin-bottom: 1px;
+	background-color: #F2F2F2;
+}
+
+.footer1
+{
+	margin-bottom: 1px
+}
+
+a:visited 
+{
+  color: grey;
+}
+
+a:link 
+{
+  color: grey;
+}
+
+
+
+
+
+
+
